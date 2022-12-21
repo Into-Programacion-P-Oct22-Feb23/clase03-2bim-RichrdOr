@@ -33,7 +33,6 @@ public class Ejemplo021 {
             }
         }
         System.out.printf("%s\n", cadenaFinal);
-    }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+    }
 
 }
-                                                                                                                                                                                                                                                                                                                                                                            
